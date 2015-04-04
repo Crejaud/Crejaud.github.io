@@ -135,6 +135,22 @@
   padding-top: 36px;
 }
 
+.experience h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.experience p {
+  font-size: 18px;
+}
+
+.experience {
+  background-color: #DCDDD8;
+  padding-bottom: 48px;
+  padding-top: 36px;
+}
+
 .contact small {
   color: #888888;
 }
