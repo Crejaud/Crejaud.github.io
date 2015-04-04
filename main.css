@@ -23,6 +23,7 @@
 
 .nav li {
   display: inline;
+  vertical-align: middle;
 }
 
 .top-navigation {
