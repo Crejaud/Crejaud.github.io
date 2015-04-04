@@ -1,0 +1,174 @@
+.nav {
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+  background-color: #475F77;
+}
+
+.nav a {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav a:link, a:visited {
+  background-color: #475F77;
+}
+
+.nav a:hover, a:active {
+  background-color: #354B5E;
+}
+
+.nav li {
+  display: inline;
+}
+
+.top-navigation {
+  padding: 30px 0 0;
+}
+
+.jumbotron {
+  background-color: #D74B4B;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron h2 {
+  font-size: 40px;
+  font-family: 'Shift', sans-serif;
+  color: #fff;
+}
+
+.jumbotron p {
+  font-size: 24px;
+  color: #fff;
+}
+
+.education {
+  background-color: #DCDDD8;
+  padding-bottom: 48px;
+  padding-top: 36px;
+}
+
+.education h2 {
+  font-family: 'Shift', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.education p {
+  font-size: 24px;
+  margin-bottom: 13px;
+}
+
+.education img {
+  margin-top: 13px;
+}
+
+.skills {
+  background-color: #DCDDD8;
+  padding-bottom: 48px;
+  padding-top: 36px;
+}
+
+.skills p {
+  font-size: 18px;
+}
+
+.skills h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.projects {
+  background-color: #DCDDD8;
+  padding-bottom: 48px;
+  padding-top: 36px;
+}
+
+.projects h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.projects a {
+  color: #00b0ff;
+}
+
+.courses {
+  background-color: #DCDDD8;
+  padding-bottom: 48px;
+  padding-top: 36px;
+}
+
+.courses h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.courses p {
+  font-size: 18px;
+}
+
+.contact {
+  background-color: #DCDDD8;
+  padding-bottom: 48px;
+  padding-top: 36px;
+}
+
+.contact small {
+  color: #888888;
+}
+
+.scroll {
+  width: auto;
+  height: 256px;
+  background-attachment: fixed;
+  background: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.scroll .container {
+  position: relative;
+  top: 64px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.scroll center {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 64px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  color: #fff
+}
+
+#s1 {
+  background-color: #D74B4B;
+}
+
+#projects-background {
+  background-image: url('file://C:/Users/creja_000/Documents/School_Documents/Website_Development/Resume_Website/X-Wing-Render.jpg');
+}
