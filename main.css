@@ -32,7 +32,7 @@
 
 .jumbotron {
   background-color: #D74B4B;
-  height: 500px;
+  height: 540px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -184,6 +184,10 @@
 
 #s1 {
   background-color: #D74B4B;
+}
+
+#education-background {
+  background-image: url('images/Rutgers-Campus.jpg');
 }
 
 #projects-background {
