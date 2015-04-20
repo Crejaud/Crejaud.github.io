@@ -190,6 +190,10 @@
   background-image: url('images/Rutgers-Campus.jpg');
 }
 
+#skills-background {
+  background-image: url('images/hackru-logo.png');
+}
+
 #projects-background {
   background-image: url('images/X-Wing-Render.jpg');
 }
