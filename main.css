@@ -195,6 +195,10 @@
   background-image: url('images/hackru-logo.png');
 }
 
+#experience-background {
+  background-image: url('images/amazon-logo.png');
+}
+
 #projects-background {
   background-image: url('images/X-Wing-Render.jpg');
 }
